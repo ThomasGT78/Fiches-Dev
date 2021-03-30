@@ -18,7 +18,7 @@ git add .		/* tous les fichiers */
 // Retirer 1 ou plusieurs fichier de la zone de transit
 git restore --staged nomFichier.xxx
 git restore --staged nomFichier1.xxx nomFichier2.xxx
-git restore .	/* tous les fichiers */
+git restore --staged .	/* tous les fichiers */
 
 git rm --cached [fichier]
 git rm --cached -r .	//Vide toute la zone de transit
