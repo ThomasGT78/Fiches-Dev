@@ -1,0 +1,17 @@
+Ctrl + Alt + L	Texte	£		
+Ctrl + Alt + Y	Texte	¥		
+Ctrl + Alt + E	Texte	€		
+Ctrl + Alt + ,	Texte	«		
+Ctrl + Alt + .	Texte	»		
+Ctrl + Alt + 0	Texte	°		
+Ctrl + Alt + M	Texte	µ		
+Ctrl + Alt + A	Texte	æ		
+Ctrl + Maj + Alt + A	Texte	Æ		
+Ctrl + Maj + Alt + 0	Texte	ø		
+Ctrl + Maj + Alt + O	Texte	Œ		
+Ctrl + Alt + O	Texte	œ		
+Win + Ctrl + X	Commande	"C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE"		
+Win + Ctrl + W	Commande	"C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"		
+Ctrl + Maj + Alt + 2	Commande	https://mail.google.com/mail/u/0/?hl=fr#inbox		
+Ctrl + Maj + Alt + M	Commande	https://scantrad.net/		
+Win + Maj + N	Commande	notepad.exe		
