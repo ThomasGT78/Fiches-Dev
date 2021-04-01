@@ -47,3 +47,11 @@ git checkout master	// revient sur la dernière version
 
 /// Cloner un projet
 git clone https://github.com/smaloron/vagrant-lamp.git
+
+// mettre à jour un projet cloné
+git pull ?????
+
+
+// Ignorer des fichier à ne pas Ajouter sur Git
+=> créer un fichier « .gitignore » à la racine du projet
+=> noter le nom des fichier ou dossier à ignorer, séparé par des retour à la ligne
